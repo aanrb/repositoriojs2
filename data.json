@@ -1,0 +1,37 @@
+{
+  "folders": [
+    {
+      "name": "Documentos",
+      "date": "2026-10-01 12:00",
+      "items": [
+        {
+          "type": "file",
+          "name": "informe.pdf",
+          "date": "2026-09-30 09:15",
+          "size": "1.2 MB",
+          "path": "Documentos/informe.pdf"
+        },
+        {
+          "type": "file",
+          "name": "plan.xlsx",
+          "date": "2026-09-28 14:20",
+          "size": "850 KB",
+          "path": "Documentos/plan.xlsx"
+        }
+      ]
+    },
+    {
+      "name": "Imagenes",
+      "date": "2026-09-25 17:00",
+      "items": [
+        {
+          "type": "file",
+          "name": "foto1.jpg",
+          "date": "2026-09-25 17:00",
+          "size": "2.4 MB",
+          "path": "Imagenes/foto1.jpg"
+        }
+      ]
+    }
+  ]
+}
